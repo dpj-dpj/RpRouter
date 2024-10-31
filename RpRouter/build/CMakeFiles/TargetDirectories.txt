@@ -1,0 +1,3 @@
+/home/pi05/Desktop/RpRouter/build/CMakeFiles/IPv6Router.dir
+/home/pi05/Desktop/RpRouter/build/CMakeFiles/edit_cache.dir
+/home/pi05/Desktop/RpRouter/build/CMakeFiles/rebuild_cache.dir

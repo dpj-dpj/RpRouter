@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<routing_table>
+    <route>
+        <dest_ip>fe80::a8d8:adeb:90c5:c570</dest_ip>
+        <next_ip>fe80::a8d8:adeb:90c5:c570</next_ip>
+    </route>
+    <route>
+        <dest_ip>fe80::e9a6:753c:9589:c0f1</dest_ip>
+        <next_ip>fe80::2ecf:67ff:fe29:d2bf</next_ip>
+    </route>
+    <!-- 更多路由条目 -->
+</routing_table>

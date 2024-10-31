@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/IPv6Router.dir/src/Router.cpp.o -o IPv6Router  /usr/lib/aarch64-linux-gnu/libtinyxml2.so.10.0.0 
